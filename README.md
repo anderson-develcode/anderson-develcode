@@ -7,7 +7,7 @@
  <div>
   <a href="https://github.com/anderson-develcode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-develcode&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-develcode&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSAndrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ads-Java" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
